@@ -1,0 +1,48 @@
+* {
+    text-align: center;
+    margin: 0 auto;
+    font-family: 'Lato', sans-serif;
+    box-sizing: border-box;
+
+
+}
+
+body {
+    background-color: #397367;
+}
+
+header {
+    font-size: 40px;
+    color: #ffffff;
+}
+
+p {
+    font-size: 25px;
+
+}
+
+
+.text {
+    width: 88%;
+    background-color: #42858c;
+    border: 1px solid black;
+    padding: 15px;
+    color: black;
+}
+
+.container {
+    border: 1px solid red;
+    width: 90%;
+}
+
+.photo {
+    float: left;
+    width: 49%;
+}
+
+img {
+    width: 100%;
+    border: 5px solid black;
+}
+
+.gallary {}
